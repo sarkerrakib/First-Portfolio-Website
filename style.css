@@ -197,3 +197,25 @@ input{
 .submit{
     padding: 10px 20px;
 }
+
+/****Footer*****/
+
+
+.footer{
+    background-color: #3497fa50;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    text-align: center;
+}
+.fff{
+    width: 100%;
+}
+.foot-l{
+    text-align: center;
+}
+.foot-lp{
+    text-align: center;
+}
+.two{
+    color: #706fd3;
+}
