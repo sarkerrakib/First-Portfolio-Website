@@ -58,3 +58,59 @@ h1{
     line-height: 25px;
     margin-top: 35px;
 }
+
+
+/****2nd section*****/
+
+.my-mission{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+}
+.twenty-two{
+    color: #70a1ff;
+
+}
+
+.second-section{
+    margin-left: 135px;
+    margin-right: 125px;
+}
+.main-one{
+    width: auto;
+}
+.box-one{
+    width: 33%;
+    border: 1px solid hsla(241, 53%, 63%, 0.274);
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: hsla(241, 53%, 63%, 0.219);
+    border-radius: 20px;
+}
+.box-two{
+    width: 33%;
+    border: 1px solid hsla(198, 74%, 54%, 0.377);
+    margin-right: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: hsla(198, 74%, 54%, 0.349);
+    border-radius: 20px;
+}
+.box-three{
+    width: 33%;
+    border: 1px solid #ff525252;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: #ff52524b;
+    border-radius: 20px;
+}
+.box-h{
+    font-size: 25px;
+}
+.box-img{
+    width: 180px;
+}
+
+
+
