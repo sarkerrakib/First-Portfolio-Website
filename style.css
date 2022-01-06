@@ -1,0 +1,60 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+section{
+    display: flex;
+}
+.first-section{
+    margin-top: 90px;
+}
+.vertical {
+    width: .5%;
+    height: 110px;
+    background-color: #1e90ff;
+    margin-left: 10%;
+    margin-top: 75px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 45px;
+    letter-spacing: 1.5px;
+}
+.mine{
+    margin-left: -15px;
+}
+.myself{
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 35px;
+}
+.mission{
+    color: #70a1ff;
+}
+.first-half{
+    width: 50%;
+    margin-top: 40px;
+
+}
+.second-half{
+    width: 50%;
+}
+.second-half img{
+    width: 75%;
+    margin-left: 5%;
+}
+
+.me-button{
+    text-decoration: none;
+    color: white;
+    background-color: #70a1ff;
+    padding: 10px 25px;
+    border-radius: 4px;
+    margin-bottom: 55px;
+}
+.myself1{
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 35px;
+}
