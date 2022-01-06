@@ -113,4 +113,38 @@ h1{
 }
 
 
+/*****section-three*****/
 
+.third-section{
+    margin-top: 110px;
+    margin-left: 129px;
+    margin-right: 90px;
+}
+.develop-img{
+    width: 35%;
+    margin-right: 55px;
+}
+.developer{
+    width: 100%;
+}
+.develop-content{
+    width: 65%;
+    margin-top: 65px;
+}
+.develop-hh{
+    font-size: 35px;
+    font-weight: bold;
+}
+.develop-p{
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+.develop-bt{
+    text-decoration: none;
+    color: white;
+    background-color: #70a1ff;
+    padding: 10px 25px;
+    border-radius: 4px;
+    margin-bottom: 55px;
+    
+}
