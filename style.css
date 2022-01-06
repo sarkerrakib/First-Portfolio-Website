@@ -177,6 +177,9 @@ h1{
     text-align: center;
     color: white;
 }
+.hero{
+    margin-left: 250px;
+}
 .hero-p{
     text-align: center;
     margin-left: 15%;
